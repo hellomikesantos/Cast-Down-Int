@@ -1,5 +1,4 @@
-﻿var number = 111111111111111111;
-castInt(-1);
+﻿castInt(-1);
 
 void castInt(int num)
 {
